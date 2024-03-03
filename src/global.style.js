@@ -57,7 +57,10 @@ body {
     -webkit-text-size-adjust: 100%;
     font-family: 'Roboto', sans-serif;
     color: #000000;
-    background: linear-gradient(to bottom, rgb(10 66 171 / 40%), rgb(125 179 225 / 80%), #ced8f1);
+    background: linear-gradient(135deg, #2d8cf159, #3c52e5a3, #0a658f63);
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-size: cover; 
     font-weight: 400;
     font-style: normal;
     overflow: auto;
